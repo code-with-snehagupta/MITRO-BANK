@@ -5,7 +5,7 @@ Mitron Bank is a legacy financial institution headquartered in Hyderabad. They w
 Objective of the Project
 🔁Home
 The objective is to analyze this data and provide actionable, data-driven recommendations to guide Mitron Bank in tailoring the new credit cards to customer needs and market trends.
-https://1drv.ms/i/c/b72485f6a7edc0d3/EQ9xv6sgOOVLjF8139NsCSoBomrvTVP1P6jhOEgnUX8qPQ?e=7CAZtb
+![Screenshot 2024-07-29 153327](https://github.com/user-attachments/assets/fdb52c7f-a9d5-48ef-994e-69e659ebdeb5)
 
 Problem Statment
 🔁Home
@@ -14,7 +14,7 @@ Problem Statment
 •	Spending Insights: Where do people spend money the most? Does it have any impact due to occupation, gender, city, age etc.? This can help you to add relevant credit card features for specific target groups.
 •	Key Customer Segments: By doing above, you should be able to identify and profile key customer segments that are likely to be the highest-value users of the new credit cards. This includes understanding their demographics, spending behaviours, and financial preferences.
 •	Credit Card Feature Recommendations: Provide recommendations on what key features should be included in the credit card which will improve the likelihood of credit card usage. This should be backed by the insights from data provided and also some secondary research on the internet for this.
-https://1drv.ms/i/c/b72485f6a7edc0d3/ETO14x9I8-5EgQStfjGSlX4B03VBGfbzgTm5Pe81lixpRA?e=mV3ZQp
+![Screenshot 2024-07-29 153404](https://github.com/user-attachments/assets/d1775399-7410-42bc-9fc1-a29ef9b0c0bf)
 
 Demographic Classification:
 🔁Home
@@ -35,7 +35,7 @@ Occupational Insight:
 •	Marital Status Overview:
 •	A significant majority of our customers are married (78.41%), emphasizing the importance of considering family-centric financial solutions.
 •	Unmarried customers, though a smaller segment, still constitute a substantial 21.6% of our customer base.
-https://1drv.ms/i/c/b72485f6a7edc0d3/EaaOcVHhjyxNvoE2okpCZlEBV3EsoYzWnuj2MSSS8DpIpw?e=FsnM86
+![Screenshot 2024-07-29 153214](https://github.com/user-attachments/assets/1b435755-2daa-497d-8c02-040300f80467)
 Average Income Utilization:
 •	Average Income Utilization stands at 42.82%
 Key Metrics:
@@ -124,7 +124,7 @@ Income, Spend, Utilization by Occupation:
 •	Salaried IT employees lead in income ($477M), spend ($244M), and utilization (51.04%).
 •	Business Owners show an income of $265M, spend of $88M, and a utilization rate of 33.22%.
 •	Government employees have the lowest utilization at 29%.
-https://1drv.ms/i/c/b72485f6a7edc0d3/Eb5S8gTOSVtNvgIQDI7rikcBAOow_H_yms6ZVlERW5z0-A?e=yJZNM0
+![Screenshot 2024-07-29 153436](https://github.com/user-attachments/assets/204a999b-cc36-400f-9032-217caf9cfbed)
 Income, Spend, Income Utilization by City:
        •    Mumbai outshines with the highest income and spend, resulting in a utilization rate of 51.43%.
 •	Chennai, Delhi NCR, Bengaluru, and Hyderabad follow with varying utilization rates.
