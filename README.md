@@ -36,7 +36,9 @@ City-wise Distributio:
 
 •	Mumbai takes the lead in terms of customer concentration, with 1078 customers, predominantly males.
 •	Other major cities like Chennai, Bangalore, and Delhi NCR also contribute significantly to our customer base.
+
 Occupational Insight:
+
 •	Salaried IT Employees represent a large portion of our customers (1294), showcasing a tech-centric demographic.
 •	The diversity in occupations, including freelancers and business owners, presents an opportunity to tailor services for varied professional needs.
 •	Marital Status Overview:
