@@ -45,7 +45,9 @@ Occupational Insight:
 •	A significant majority of our customers are married (78.41%), emphasizing the importance of considering family-centric financial solutions.
 •	Unmarried customers, though a smaller segment, still constitute a substantial 21.6% of our customer base.
 ![Screenshot 2024-07-29 153214](https://github.com/user-attachments/assets/1b435755-2daa-497d-8c02-040300f80467)
+
 Average Income Utilization:
+
 •	Average Income Utilization stands at 42.82%
 Key Metrics:
        • Total Income in 6 months: $1240M
