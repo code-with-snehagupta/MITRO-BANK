@@ -8,6 +8,7 @@ The objective is to analyze this data and provide actionable, data-driven recomm
 ![Screenshot 2024-07-29 153327](https://github.com/user-attachments/assets/fdb52c7f-a9d5-48ef-994e-69e659ebdeb5)
 
 Problem Statment
+
 🔁Home
 •	Demographic classification: Classify the customers based on available demography such as age group, gender, occupation etc. and provide insights based on them.
 •	Avg income utilisation %: Find the average income utilisation % of customers (avg_spends/avg_income). This will be your key metric. The higher the average income utilisation %, the more is their likelihood to use credit cards.
