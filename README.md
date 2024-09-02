@@ -25,11 +25,13 @@ For demographic classification, I have conducted a thorough customer demographic
 The dataset encompasses a substantial pool of 4000 customers, forming the foundation of our analysis.
 •	Gender Dynamics: The majority of our customer base comprises males, accounting for 64.93%, indicating a slightly male-dominated demographic.
 •	However, the substantial presence of females (35.08%) highlights a diverse customer landscape.
+
 Age Group Profiling:
+
 •	The age group 25-35 emerges as the most significant segment, with 1498 customers. This group, especially males, exhibits a strong presence.
 •	Customers aged 35-45 also form a substantial portion (1273), demonstrating a balanced distribution between genders.
 •	The 45+ age group, while smaller, remains a noteworthy segment that shouldn't be overlooked.
-City-wise Distribution:
+City-wise Distributio:
 •	Mumbai takes the lead in terms of customer concentration, with 1078 customers, predominantly males.
 •	Other major cities like Chennai, Bangalore, and Delhi NCR also contribute significantly to our customer base.
 Occupational Insight:
