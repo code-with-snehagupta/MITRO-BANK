@@ -31,7 +31,9 @@ Age Group Profiling:
 •	The age group 25-35 emerges as the most significant segment, with 1498 customers. This group, especially males, exhibits a strong presence.
 •	Customers aged 35-45 also form a substantial portion (1273), demonstrating a balanced distribution between genders.
 •	The 45+ age group, while smaller, remains a noteworthy segment that shouldn't be overlooked.
+
 City-wise Distributio:
+
 •	Mumbai takes the lead in terms of customer concentration, with 1078 customers, predominantly males.
 •	Other major cities like Chennai, Bangalore, and Delhi NCR also contribute significantly to our customer base.
 Occupational Insight:
