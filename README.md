@@ -71,6 +71,7 @@ Total Spend by Payment Type:
 •	Other payment types include UPI, debit cards, and net banking.
 
 Total Spend by Gender:
+
           • Males lead in spending with $357M, while females contribute $154M.
 Spend by Marital Status:
 Married individuals top the spending charts with $429M, surpassing unmarried individuals at $102M.
