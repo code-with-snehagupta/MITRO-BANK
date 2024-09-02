@@ -11,10 +11,15 @@ Problem Statment
 
 🔁Home
 •	Demographic classification: Classify the customers based on available demography such as age group, gender, occupation etc. and provide insights based on them.
+
 •	Avg income utilisation %: Find the average income utilisation % of customers (avg_spends/avg_income). This will be your key metric. The higher the average income utilisation %, the more is their likelihood to use credit cards.
+
 •	Spending Insights: Where do people spend money the most? Does it have any impact due to occupation, gender, city, age etc.? This can help you to add relevant credit card features for specific target groups.
+
 •	Key Customer Segments: By doing above, you should be able to identify and profile key customer segments that are likely to be the highest-value users of the new credit cards. This includes understanding their demographics, spending behaviours, and financial preferences.
+
 •	Credit Card Feature Recommendations: Provide recommendations on what key features should be included in the credit card which will improve the likelihood of credit card usage. This should be backed by the insights from data provided and also some secondary research on the internet for this.
+
 ![Screenshot 2024-07-29 153404](https://github.com/user-attachments/assets/d1775399-7410-42bc-9fc1-a29ef9b0c0bf)
 
 Demographic Classification:
