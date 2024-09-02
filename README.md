@@ -17,6 +17,7 @@ Problem Statment
 ![Screenshot 2024-07-29 153404](https://github.com/user-attachments/assets/d1775399-7410-42bc-9fc1-a29ef9b0c0bf)
 
 Demographic Classification:
+
 🔁Home
 For demographic classification, I have conducted a thorough customer demographic analysis using Power BI, and here are the key findings presented in a visually engaging manner:
 The dataset encompasses a substantial pool of 4000 customers, forming the foundation of our analysis.
