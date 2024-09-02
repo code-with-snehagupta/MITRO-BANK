@@ -30,6 +30,7 @@ Demographic Classification:
 
 
 🔁Home
+
 For demographic classification, I have conducted a thorough customer demographic analysis using Power BI, and here are the key findings presented in a visually engaging manner:
 
 The dataset encompasses a substantial pool of 4000 customers, forming the foundation of our analysis.
@@ -66,9 +67,12 @@ Occupational Insight:
 Average Income Utilization:
 
 •	Average Income Utilization stands at 42.82%
-Key Metrics:
-       • Total Income in 6 months: $1240M
+     Key Metrics:
+	 
+	 • Total Income in 6 months: $1240M
+  
 •	Total Spends in 6 months: $531M
+
 Income, Spend, Utilization by Age Group:
         •   Age group 25-34 exhibits the highest income, spend, and utilization (43.66%).
 •	Second-highest is the 35-45 age group with a utilization rate of 46.52%.
