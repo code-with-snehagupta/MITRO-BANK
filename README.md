@@ -134,7 +134,7 @@ Total Spend by Payment Type:
 Total Spend by Gender:
          Males lead in spending with $357M, while females contribute $154M.
 Spend by Marital Status:
-            Married individuals top the spending charts with $429M, surpassing unmarried individuals at                     $102M.
+            Married individuals top the spending charts with $429M, surpassing unmarried individuals at        $102M.
 Total Spend by Month:
 September emerges as the highest spending month, accounting for $116M, constituting 21.84% of the total spend.
 Income Utilization by Gender:
