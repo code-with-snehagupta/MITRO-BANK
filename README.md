@@ -3,6 +3,7 @@
 🔁Home
 
 Mitron Bank is a legacy financial institution headquartered in Hyderabad. They want to introduce a new line of credit cards, aiming to broaden its product offerings and reach in the financial market.
+
 Objective of the Project
 
 🔁Home
@@ -14,15 +15,20 @@ The objective is to analyze this data and provide actionable, data-driven recomm
 Problem Statment
 
 🔁Home
+
 •	Demographic classification: Classify the customers based on available demography such as age group, gender, occupation etc. and provide insights based on them.
 
-•	Avg income utilisation %: Find the average income utilisation % of customers (avg_spends/avg_income). This will be your key metric. The higher the average income utilisation %, the more is their likelihood to use credit cards.
+•    Avg income utilisation %: Find the average income utilisation % of customers (avg_spends/avg_income). This will be your key metric. The higher the average income utilisation %, the more is their  
+              likelihood to use credit cards.
 
-•	Spending Insights: Where do people spend money the most? Does it have any impact due to occupation, gender, city, age etc.? This can help you to add relevant credit card features for specific target groups.
+•	Spending Insights: Where do people spend money the most? Does it have any impact due to occupation, gender, city, age etc.? This can help you to add relevant credit card features for specific target 
+          groups.
 
-•	Key Customer Segments: By doing above, you should be able to identify and profile key customer segments that are likely to be the highest-value users of the new credit cards. This includes understanding their demographics, spending behaviours, and financial preferences.
+•	Key Customer Segments: By doing above, you should be able to identify and profile key customer segments that are likely to be the highest-value users of the new credit cards. This includes understanding 
+          their demographics, spending behaviours, and financial preferences.
 
-•	Credit Card Feature Recommendations: Provide recommendations on what key features should be included in the credit card which will improve the likelihood of credit card usage. This should be backed by the insights from data provided and also some secondary research on the internet for this.
+•	Credit Card Feature Recommendations: Provide recommendations on what key features should be included in the credit card which will improve the likelihood of credit card usage. This should be backed by 
+           the insights from data provided and also some secondary research on the internet for this.
 
 ![Screenshot 2024-07-29 153404](https://github.com/user-attachments/assets/d1775399-7410-42bc-9fc1-a29ef9b0c0bf)
 
@@ -71,44 +77,46 @@ Occupational Insight:
 
 Average Income Utilization:
 
-•	Average Income Utilization stands at 42.82%
-     Key Metrics:
+•  Average Income Utilization stands at 42.82%
+         Key Metrics:
 	 
-	 • Total Income in 6 months: $1240M
+• Total Income in 6 months: $1240M
   
-•	Total Spends in 6 months: $531M
+• Total Spends in 6 months: $531M
 
-Income, Spend, Utilization by Age Group:
+
+Income, Spend, Utilization by Age Group: 
+
 
 •  Age group 25-34 exhibits the highest income, spend, and utilization (43.66%).
 		
-•	Second-highest is the 35-45 age group with a utilization rate of 46.52%.
+•  Second-highest is the 35-45 age group with a utilization rate of 46.52%.
 
 Total Spends by Category:
 
- • Highest spending in bills category ($105M) with an average utilization of 46%.
+•  Highest spending in bills category ($105M) with an average utilization of 46%.
  
-•	Other significant categories: Grocery ($86M), Electronics ($80M), and the least in Others category ($16M).
+•  Other significant categories: Grocery ($86M), Electronics ($80M), and the least in Others category ($16M).
 
 Income, Spend, Utilization by Occupation:
 
- •Salaried IT employees lead in income ($477M), spend ($244M), and utilization (51.04%).
+•  Salaried IT employees lead in income ($477M), spend ($244M), and utilization (51.04%).
  
-•	Business Owners show an income of $265M, spend of $88M, and a utilization rate of 33.22%.
+•  Business Owners show an income of $265M, spend of $88M, and a utilization rate of 33.22%.
 
-•	Government employees have the lowest utilization at 29%.
+•  Government employees have the lowest utilization at 29%.
 
 Income, Spend, Income Utilization by City:
 
 • Mumbai outshines with the highest income and spend, resulting in a utilization rate of 51.43%.
 		
-•	Chennai, Delhi NCR, Bengaluru, and Hyderabad follow with varying utilization rates.
+• Chennai, Delhi NCR, Bengaluru, and Hyderabad follow with varying utilization rates.
 
 Total Spend by Payment Type:
 
-• Credit cards dominate spending, accounting for $216M with a utilization rate of 17.45%.
+•  Credit cards dominate spending, accounting for $216M with a utilization rate of 17.45%.
 
-•	Other payment types include UPI, debit cards, and net banking.
+•  Other payment types include UPI, debit cards, and net banking.
 
 Total Spend by Gender:
 
@@ -116,103 +124,155 @@ Total Spend by Gender:
 
 Spend by Marital Status:
 
-Married individuals top the spending charts with $429M, surpassing unmarried individuals at $102M.
+ •  Married individuals top the spending charts with $429M, surpassing unmarried individuals at $102M.
 
 Total Spend by Month:
 
-September emerges as the highest spending month, accounting for $116M, constituting 21.84% of the total spend.
+• September emerges as the highest spending month, accounting for $116M, constituting 21.84% of the total spend.
 
 Income Utilization by Gender:
 
-Males exhibit a higher income utilization rate at 44.39%, compared to females at 39.92%.
+• Males exhibit a higher income utilization rate at 44.39%, compared to females at 39.92%.
 
 Income Utilization by Marital Status:
 
-Singles show a utilization rate of 43.06%, slightly surpassing married individuals at 42.77%.
+• Singles show a utilization rate of 43.06%, slightly surpassing married individuals at 42.77%.
 
 Table Grid View Page:
 
 🔁Home
  
-In addition to these insights, a third page has been dedicated to a detailed Table Grid View, offering a granular examination of all customer data. This tabular format enables an in-depth exploration of individual customer details, facilitating more nuanced and personalized analyses.
+In addition to these insights, a third page has been dedicated to a detailed Table Grid View, offering a granular examination of all customer data. This tabular format enables an in-depth exploration of 
+  individual customer details, facilitating more nuanced and personalized analyses.
 
 Tailored Rewards Program:
 
 Average Income Utilization stands at 42.82%
 
 Key Metrics:
+
  Average Income Utilization:
  
  • Average Income Utilization stands at 42.82%
  
 Key Metrics:
- • Total Income in 6 months: $1240M
+
+• Total Income in 6 months: $1240M
  
-•	Total Spends in 6 months: $531M
+•  Total Spends in 6 months: $531M
 
 Income, Spend, Utilization by Age Group:
- •      Age group 25-34 exhibits the highest income, spend, and utilization (43.66%).
+
+•  Age group 25-34 exhibits the highest income, spend, and utilization (43.66%).
  
-•	Second-highest is the 35-45 age group with a utilization rate of 46.52%.
+•   Second-highest is the 35-45 age group with a utilization rate of 46.52%.
 
 Total Spends by Category: 
+
  • Highest spending in bills category ($105M) with an average utilization of 46%.
  
-•	Other significant categories: Grocery ($86M), Electronics ($80M), and the least in Others category ($16M).
+•  Other significant categories: Grocery ($86M), Electronics ($80M), and the least in Others category ($16M).
 
 Income, Spend, Utilization by Occupation:
-        • Salaried IT employees lead in income ($477M), spend ($244M), and utilization (51.04%).
-•	Business Owners show an income of $265M, spend of $88M, and a utilization rate of 33.22%.
-•	Government employees have the lowest utilization at 29%.
+
+• Salaried IT employees lead in income ($477M), spend ($244M), and utilization (51.04%).
+
+• Business Owners show an income of $265M, spend of $88M, and a utilization rate of 33.22%.
+
+• Government employees have the lowest utilization at 29%.
+
 Income, Spend, Income Utilization by City:
-       • Mumbai outshines with the highest income and spend, resulting in a utilization rate of 51.43%.
-•	Chennai, Delhi NCR, Bengaluru, and Hyderabad follow with varying utilization rates.
+
+• Mumbai outshines with the highest income and spend, resulting in a utilization rate of 51.43%.
+
+• Chennai, Delhi NCR, Bengaluru, and Hyderabad follow with varying utilization rates.
+
 Total Spend by Payment Type:
  
 •	Credit cards dominate spending, accounting for $216M with a utilization rate of 17.45%.
+
 •	Other payment types include UPI, debit cards, and net banking.
+
 Total Spend by Gender:
  
-•	Males lead in spending with $357M, while females contribute $154M.
-Spend by Marital Status:
-         • Married individuals top the spending charts with $429M, surpassing unmarried individuals at $102M.
+•    Males lead in spending with $357M, while females contribute $154M.
+      Spend by Marital Status: 
+      
+•     Married individuals top the spending charts with $429M, surpassing unmarried individuals at $102M.
+
 Total Spend by Month:
-          • September emerges as the highest spending month, accounting for $116M, constituting 21.84% of the total spend.
+
+ • September emerges as the highest spending month, accounting for $116M, constituting 21.84% of the total spend. 
+ 
 Income Utilization by Gender:
-            • Males exhibit a higher income utilization rate at 44.39%, compared to females at 39.92%.
+
+ • Males exhibit a higher income utilization rate at 44.39%, compared to females at 39.92%.
+ 
 Income Utilization by Marital Status:
-            • Singles show a utilization rate of 43.06%, slightly surpassing married individuals at 42.77%.
+
+ • Singles show a utilization rate of 43.06%, slightly surpassing married individuals at 42.77%.
+ 
 Table Grid View Page:
-              In addition to these insights, a third page has been dedicated to a detailed Table Grid View, offering a granular examination of all customer data. This tabular format enables an in-depth exploration of individual customer details, facilitating more nuanced and personalized analyses.
+
+ In addition to these insights, a third page has been dedicated to a detailed Table Grid View, offering a granular examination of all customer data. This tabular format enables an in-depth exploration of 
+   individual customer details, facilitating more nuanced and personalized analyses.
+   
 Tailored Rewards Program:
-        •      Total Income in 6 months: $1240M
+
+•      Total Income in 6 months: $1240M
+
 •	Total Spends in 6 months: $531M
+
 Income, Spend, Utilization by Age Group:
-       •  Age group 25-34 exhibits the highest income, spend, and utilization (43.66%).
+      
+•  Age group 25-34 exhibits the highest income, spend, and utilization (43.66%).
+
 •	Second-highest is the 35-45 age group with a utilization rate of 46.52%.
+
 Total Spends by Category:
-        Highest spending in bills category ($105M) with an average utilization of 46%.
+
+•      Highest spending in bills category ($105M) with an average utilization of 46%.
+	
 •	Other significant categories: Grocery ($86M), Electronics ($80M), and the least in Others category ($16M).
+
 Income, Spend, Utilization by Occupation:
  
-•	Salaried IT employees lead in income ($477M), spend ($244M), and utilization (51.04%).
-•	Business Owners show an income of $265M, spend of $88M, and a utilization rate of 33.22%.
-•	Government employees have the lowest utilization at 29%.
+•   Salaried IT employees lead in income ($477M), spend ($244M), and utilization (51.04%).
+
+•   Business Owners show an income of $265M, spend of $88M, and a utilization rate of 33.22%.
+
+•   Government employees have the lowest utilization at 29%.
 ![Screenshot 2024-07-29 153436](https://github.com/user-attachments/assets/204a999b-cc36-400f-9032-217caf9cfbed)
+
 Income, Spend, Income Utilization by City:
-       •    Mumbai outshines with the highest income and spend, resulting in a utilization rate of 51.43%.
-•	Chennai, Delhi NCR, Bengaluru, and Hyderabad follow with varying utilization rates.
+
+•  Mumbai outshines with the highest income and spend, resulting in a utilization rate of 51.43%.
+
+•  Chennai, Delhi NCR, Bengaluru, and Hyderabad follow with varying utilization rates.
+
 Total Spend by Payment Type:
-       • Credit cards dominate spending, accounting for $216M with a utilization rate of 17.45%.
-•	Other payment types include UPI, debit cards, and net banking.
+
+• Credit cards dominate spending, accounting for $216M with a utilization rate of 17.45%.
+
+• Other payment types include UPI, debit cards, and net banking.
+
 Total Spend by Gender:
-         Males lead in spending with $357M, while females contribute $154M.
+
+• Males lead in spending with $357M, while females contribute $154M
+ 
 Spend by Marital Status:
-            Married individuals top the spending charts with $429M, surpassing unmarried individuals at        $102M.
+
+• Married individuals top the spending charts with $429M, surpassing unmarried individuals at   $102M.
+
 Total Spend by Month:
-September emerges as the highest spending month, accounting for $116M, constituting 21.84% of the total spend.
+
+• September emerges as the highest spending month, accounting for $116M, constituting 21.84% of the total spend.
+
 Income Utilization by Gender:
-Males exhibit a higher income utilization rate at 44.39%, compared to females at 39.92%.
+
+•  Males exhibit a higher income utilization rate at 44.39%, compared to females at 39.92%.
+
 Income Utilization by Marital Status:
-Singles show a utilization rate of 43.06%, slightly surpassing married individuals at 42.77%.
+
+• Singles show a utilization rate of 43.06%, slightly surpassing married individuals at 42.77%.
 
