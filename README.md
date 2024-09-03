@@ -12,10 +12,10 @@ Problem Statment 🔁Home
 
     •	 Demographic classification: Classify the customers based on available demography such as age group, gender, occupation etc. and provide insights based on them.
 
-    •    Avg income utilisation %: Find the average income utilisation % of customers (avg_spends/avg_income). This will be your key metric. The higher the average income utilisation %, the more is their  
+    •     Avg income utilisation %: Find the average income utilisation % of customers (avg_spends/avg_income). This will be your key metric. The higher the average income utilisation %, the more is their  
                likelihood to use credit cards.
 
-    •	 Spending Insights: Where do people spend money the most? Does it have any impact due to occupation, gender, city, age etc.? This can help you to add relevant credit card features for specific target 
+    •	  Spending Insights: Where do people spend money the most? Does it have any impact due to occupation, gender, city, age etc.? This can help you to add relevant credit card features for specific target 
           groups.
 
     •	 Key Customer Segments: By doing above, you should be able to identify and profile key customer segments that are likely to be the highest-value users of the new credit cards. This includes understanding 
@@ -46,9 +46,9 @@ Age Group Profiling:
 
 City-wise Distributio:
 
-   •	Mumbai takes the lead in terms of customer concentration, with 1078 customers, predominantly males.
+    •	 Mumbai takes the lead in terms of customer concentration, with 1078 customers, predominantly males.
 
-   •	Other major cities like Chennai, Bangalore, and Delhi NCR also contribute significantly to our customer base.
+    •	 Other major cities like Chennai, Bangalore, and Delhi NCR also contribute significantly to our customer base.
 
 
 Occupational Insight:
